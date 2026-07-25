@@ -151,8 +151,9 @@ Este resultado debe interpretarse considerando tanto posibles procesos de regene
 
 
 ### Pérdidas y ganancias de selvas
+![Mapa de Pérdidas, ganancias y transiciones de selvas](results/lucc_usv_selvas.png)
 
-![Pérdidas y ganancias de selvas](results/perdidas_ganancias_2001_2021.png)
+![Gráfica de Pérdidas y ganancias de selvas](results/perdidas_ganancias_2001_2021.png)
 
 
 ## Herramientas utilizadas
