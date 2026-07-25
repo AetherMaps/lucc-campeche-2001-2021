@@ -147,19 +147,13 @@ Este resultado debe interpretarse considerando tanto posibles procesos de regene
 
 ### Coberturas de uso de suelo
 
-![Mapa de coberturas 2001](results/mapas/coberturas_2001.png)
+![Mapa de coberturas 2001-2021](results/lucc_usv_2001_2021.png)
 
-![Mapa de coberturas 2021](results/mapas/coberturas_2021.png)
 
 ### Pérdidas y ganancias de selvas
 
-![Pérdidas y ganancias de selvas](results/mapas/perdidas_ganancias_selvas.png)
+![Pérdidas y ganancias de selvas](results/perdidas_ganancias_2001_2021.png)
 
-### Transiciones de uso de suelo
-
-![Mapa de transiciones](results/mapas/transiciones_2001_2021.png)
-
----
 
 ## Herramientas utilizadas
 
