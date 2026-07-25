@@ -106,6 +106,8 @@ Se calcularon:
 
 Se construyó una matriz de transición para identificar las conversiones entre categorías de cobertura y analizar los patrones de persistencia y transformación territorial.
 
+![Tabla de indicadores de cambio](results/indicadores_cambio.png)
+
 ---
 
 ## Resultados principales
@@ -122,6 +124,8 @@ Se construyó una matriz de transición para identificar las conversiones entre 
 | Otro tipo de vegetación | −810,089.06 ha |
 
 La categoría de **selvas** presentó el mayor incremento neto, mientras que **otro tipo de vegetación** presentó la mayor reducción.
+
+![Cambio neto 2001-2021](results/cambio_neto_2001_2021.png)
 
 ### Persistencia y cambio
 
